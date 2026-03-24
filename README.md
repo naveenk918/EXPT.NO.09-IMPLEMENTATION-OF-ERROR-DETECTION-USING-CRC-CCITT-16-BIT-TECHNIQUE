@@ -51,6 +51,7 @@ printf("no error detected");
 }
  
 # OUTPUT:
+![e91](https://github.com/user-attachments/assets/f32fb1f1-7f06-449f-8ed8-c12c22ab268e)
 
 
 # RESULT:
